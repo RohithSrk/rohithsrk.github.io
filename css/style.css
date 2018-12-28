@@ -872,6 +872,19 @@ button.btn:hover:after, a.btn:hover:after {
 /* -------------------------------------------------------
                    08 - portfolio
 -------------------------------------------------------- */
+
+.portfolio dt {
+  font-family: 'Raleway', sans-serif;
+  color: #151515;
+  margin-bottom: 4px;
+}
+
+.portfolio dd {
+  font-family: 'Raleway', sans-serif;
+  color: #777;
+  margin-bottom: 14px;
+}
+
 .portfolio {
   position: relative;
   background-color: #f7f7f7;
